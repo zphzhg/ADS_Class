@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T02:01:53.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LcGa0oaM5YtFEKN6KOgf" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T07:51:06.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RQXiKyzfEk2TaWusz14w" version="16.6.3" type="github">
   <diagram id="QeP6dWIgKZ0PKofWJjHW" name="Page-1">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="bTl05EiRX-MTBDYDFG8y-30" value="AWS Direct Connect" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.direct_connect;" parent="1" vertex="1">
           <mxGeometry x="471" y="205.56" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bTl05EiRX-MTBDYDFG8y-32" value="Equinix Metal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="bTl05EiRX-MTBDYDFG8y-32" value="Durham host" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="457.5" y="731" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bTl05EiRX-MTBDYDFG8y-38" value="AWS Cloud" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aws_cloud;" parent="1" vertex="1">
